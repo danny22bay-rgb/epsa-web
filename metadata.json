@@ -1,0 +1,6 @@
+{
+  "name": "EPSA - Ethiopian Pharmaceutical Students' Association",
+  "description": "Official interactive portal for the Ethiopian Pharmaceutical Students' Association (EPSA) — empowering 4,500+ pharmacy students across 25 university chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
